@@ -1,0 +1,4 @@
+this are static files
+
+***static files mai koi bhi 
+aise chiznhi dalneka jo security loop hole create kar sakti hai kyuki static  files sabko viible hoti hai ****
